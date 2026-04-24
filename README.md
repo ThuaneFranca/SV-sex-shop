@@ -1,4 +1,4 @@
-# ?? SV Sex Shop 
+# SV Sex Shop 
  
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-pink?style=for-the-badge) 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react) 
@@ -7,7 +7,7 @@
  
 --- 
  
-## ?? Sobre o Projeto 
+## Sobre o Projeto 
  
 A **SV Sex Shop** e um e-commerce de produtos sensuais de alto padrao com otimo custo-beneficio. 
 O projeto nasceu com a missao de oferecer uma experiencia de compra discreta, segura e acolhedora 
@@ -15,12 +15,12 @@ para todos os publicos, com especial atencao a casais homoafetivos.
  
 - Produtos enviados para todo o Brasil via Correios 
 - Retirada disponivel em pontos estrategicos 
-- Total discri‡Æo na embalagem e na entrega 
+- Total discriâ€¡Ã†o na embalagem e na entrega 
 - Ambiente inclusivo e sem preconceitos 
  
 --- 
  
-## ? Funcionalidades 
+## Funcionalidades 
  
 - Vitrine de produtos com categorias 
 - Secao de depoimentos de clientes 
@@ -32,7 +32,7 @@ para todos os publicos, com especial atencao a casais homoafetivos.
  
 --- 
  
-## ??? Tecnologias Utilizadas 
+## Tecnologias Utilizadas 
  
 | Tecnologia | Funcao | 
 | React 18 | Interface de usuario | 
@@ -47,7 +47,7 @@ para todos os publicos, com especial atencao a casais homoafetivos.
  
 --- 
  
-## ?? Como Rodar Localmente 
+## Como Rodar Localmente 
  
 Pre-requisitos: Node.js 18+ e npm instalados. 
  
@@ -68,13 +68,13 @@ Pre-requisitos: Node.js 18+ e npm instalados.
  
 --- 
  
-## ?? Build para Producao 
+## Build para Producao 
  
    npm run build 
  
 --- 
  
-## ????? Autora 
+## Autora 
  
 Desenvolvido por **Thuane Franca** 
  
@@ -82,6 +82,6 @@ Desenvolvido por **Thuane Franca**
  
 --- 
  
-## ?? Licenca 
+## Licenca 
  
 Este projeto esta sob a licenca MIT. 

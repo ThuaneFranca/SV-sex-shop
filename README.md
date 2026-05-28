@@ -84,4 +84,4 @@ Desenvolvido por **Thuane Franca**
  
 ## Licenca 
  
-Este projeto esta sob a licenca MIT. 
+Propriedade da SV sex shop. 
